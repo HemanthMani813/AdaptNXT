@@ -1,0 +1,18 @@
+.dashboard {
+    
+    flex-grow: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
+
+.dash_head{
+    background-color: white;
+    border-radius: 8px;
+    padding-left: 8px;
+}
+.chart-container {
+    display: flex;
+    justify-content: space-between;
+}
